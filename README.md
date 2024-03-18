@@ -5,12 +5,12 @@
 * [ORCID--0009-0004-3327-8671](https://orcid.org/0009-0004-3327-8671)
 * [GitHub](https://github.com/LinusP217)
 
-### Education
+### Education 🎓
 
 * M.Sc. Chemistry [UCSD](https://ucsd.edu/) (2020)
 * B.S. Chemistry [SDSU](https://www.sdsu.edu/) (2018)
 
-### Interests
+### Interests 💭
 computational chemistry, density-functional theory, chemical reactivity, spectroscopy
 
 ---
