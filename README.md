@@ -1,4 +1,9 @@
-### Profile Links
+### Profile
+
+* Oregon State University
+* Google Scholar
+* ORCID--
+* 
 
 #### Test
 
