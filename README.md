@@ -1,6 +1,6 @@
-I am a graduate student in the [Department of Chemistry](https://chemistry.oregonstate.edu/) at [Oregon State University](https://oregonstate.edu/).
+I am a graduate student in the [Department of Chemistry](https://chemistry.oregonstate.edu/) at [Oregon State University](https://oregonstate.edu/) 🌳.
 
-### Profile Links 😊
+### Profile Links 
 
 * <a href="https://chemistry.oregonstate.edu/directory/jacob-hirschi"> <img alt="OSU Logo" class="icon" src="OSU_logo.png" style="width:20px; height:20px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>Oregon State University</b> Jacob Hirschi</a>
 
