@@ -11,7 +11,7 @@
 
 > 'The best way to get a good idea is to have a lot of ideas.'
 > 
->  \- **Linus Pauling**
+> <div align="right"> \- **Linus Pauling** </div> 
 > 
 > <div style="text-align: right"> your-text-here </div>
 
@@ -19,7 +19,7 @@
 
 <style>body {text-align: right}</style>
 
-<div align="right">your-text-here</div>
+
 
 <!--
 **LinusP217/LinusP217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
