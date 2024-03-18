@@ -3,6 +3,7 @@
 * [Oregon State University](https://chemistry.oregonstate.edu/directory/jacob-hirschi)
 * [Google Scholar](https://scholar.google.com/citations?user=_PBxidMAAAAJ&hl=en)
 * [ORCID--0009-0004-3327-8671](https://orcid.org/0009-0004-3327-8671)
+* [GitHub](https://github.com/LinusP217)
 
 ### Education
 
