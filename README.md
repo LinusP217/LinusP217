@@ -15,6 +15,8 @@
 > 
 > <div style="text-align: right"> your-text-here </div>
 
+<div style="text-align: right"> your-text-here </div>
+
 <!--
 **LinusP217/LinusP217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
