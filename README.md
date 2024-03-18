@@ -11,13 +11,7 @@
 
 > 'The best way to get a good idea is to have a lot of ideas.'
 > 
-> <div align="right"> \- **Linus Pauling** </div> 
-> 
-> <div style="text-align: right"> your-text-here </div>
-
-<div style="text-align: justify"> your-text-here </div>
-
-<style>body {text-align: right}</style>
+> \- **Linus Pauling**
 
 
 
