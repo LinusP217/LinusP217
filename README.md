@@ -9,6 +9,8 @@
 * M.Sc. Chemistry [UCSD](https://ucsd.edu/) (2020)
 * B.S. Chemistry [SDSU](https://www.sdsu.edu/) (2018)
 
+---
+
 > 'The best way to get a good idea is to have a lot of ideas.'
 > 
 > \- **Linus Pauling**
