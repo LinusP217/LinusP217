@@ -10,14 +10,16 @@
 * M.Sc. Chemistry [UCSD](https://ucsd.edu/) (2020)
 * B.S. Chemistry [SDSU](https://www.sdsu.edu/) (2018)
 
+### Interests
+computational chemistry, density-functional theory, chemical reactivity, spectroscopy
+
 ---
 
 > 'The best way to get a good idea is to have a lot of ideas.'
 > 
 > \- **Linus Pauling**
 
-### Interests
-computational chemistry, density-functional theory, chemical reactivity, spectroscopy
+
 
 <!--
 **LinusP217/LinusP217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
