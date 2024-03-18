@@ -1,11 +1,13 @@
-### Profile
+### Profile Links
 
-* Oregon State University
-* Google Scholar
-* ORCID--
-* 
+* [Oregon State University](https://chemistry.oregonstate.edu/directory/jacob-hirschi)
+* [Google Scholar](https://scholar.google.com/citations?user=_PBxidMAAAAJ&hl=en)
+* [ORCID--0009-0004-3327-8671](https://orcid.org/0009-0004-3327-8671)
 
-#### Test
+### Education
+
+* M.Sc. Chemistry [UCSD](https://ucsd.edu/)
+* B.S. Chemistry [SDSU](https://www.sdsu.edu/)
 
 <!--
 **LinusP217/LinusP217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
