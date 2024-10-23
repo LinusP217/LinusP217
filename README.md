@@ -1,4 +1,4 @@
-I am a graduate student in the [Department of Chemistry](https://chemistry.oregonstate.edu/) at [Oregon State University](https://oregonstate.edu/) 🌳.
+I am a graduate student in the [Department of Chemistry](https://chemistry.oregonstate.edu/) at [Oregon State University](https://oregonstate.edu/) 🌳. I perform computational research in the Zuehlsdoff Group.
 
 ### Profile Links 
 
@@ -12,11 +12,12 @@ I am a graduate student in the [Department of Chemistry](https://chemistry.orego
 
 ### Education 🎓
 
+* Ph.D. Chemistry [OSU](https://chemistry.oregonstate.edu/) (2026)--Anticipated
 * M.Sc. Chemistry [UCSD](https://ucsd.edu/) (2020)
 * B.S. Chemistry [SDSU](https://www.sdsu.edu/) (2018)
 
 ### Interests 🖥️
-computational chemistry, density-functional theory, chemical reactivity, spectroscopy
+computational chemistry, quantum mechanics, density-functional theory, time-dependent density-functional theory, chemical reactivity, spectroscopy
 
 ---
 
