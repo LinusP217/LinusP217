@@ -2,6 +2,8 @@ I am a graduate student in the [Department of Chemistry](https://chemistry.orego
 
 ### Profile Links 
 
+<img align="right" src='https://github.com/LinusP217/LinusP217/blob/main/MO8_structure.png' width = "189" height = "200">
+
 * <a href="https://chemistry.oregonstate.edu/directory/jacob-hirschi"> <img alt="OSU Logo" class="icon" src="OSU_logo.png" style="width:20px; height:20px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>Oregon State University</b> Jacob Hirschi</a>
 
 * <a href="https://orcid.org/0009-0004-3327-8671"> <img alt="ORCID iD" class="icon" src="ORCiD_logo.png" style="width:20px; height:20px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>ORCiD</b> 0009-0004-3327-8671</a>
