@@ -1,6 +1,6 @@
 I am a graduate student in the [Department of Chemistry](https://chemistry.oregonstate.edu/) at [Oregon State University](https://oregonstate.edu/) 🌳. I perform computational research in the Zuehlsdoff Group.
 
-## Profile Links 
+### Profile Links 
 
 <img align="right" src='https://github.com/LinusP217/LinusP217/blob/main/MO8_structure.png' width = "189" height = "200">
 
@@ -12,13 +12,13 @@ I am a graduate student in the [Department of Chemistry](https://chemistry.orego
 
 * <a href="https://github.com/LinusP217"> <img alt="github" class="icon" src="GitHub_logo.png" style="width:20px; height:20px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>GitHub</b> LinusP217</a>
 
-## Education 🎓
+### Education 🎓
 
 * Ph.D. Chemistry [OSU](https://chemistry.oregonstate.edu/) (2026)--Anticipated
 * M.Sc. Chemistry [UCSD](https://ucsd.edu/) (2020)
 * B.S. Chemistry [SDSU](https://www.sdsu.edu/) (2018)
 
-## Interests 🖥️
+### Interests 🖥️
 computational chemistry, quantum mechanics, density-functional theory, time-dependent density-functional theory, chemical reactivity, spectroscopy
 
 ---
